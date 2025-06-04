@@ -1,0 +1,90 @@
+.card {
+    border-radius: 10px;
+    border: none;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card .form-control {
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.card .btn-primary {
+    border-radius: 8px;
+    padding: 8px;
+    background-color: #007bff;
+    border: none;
+}
+
+.card .btn-primary:hover {
+    background-color: #0069d9;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.admin-login {
+    font-size: 14px;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card .form-control {
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.card .btn-primary {
+    border-radius: 8px;
+    padding: 8px;
+    background-color: #007bff;
+    border: none;
+}
+
+.card .btn-primary:hover {
+    background-color: #0069d9;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+
+.remember-forgot a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.remember-forgot a:hover {
+    color: #0069d9;
+}
+
+.admin-login {
+    font-size: 14px;
+}
+
+
+body {
+    padding: 50px;
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.fa-eye, .fa-eye-slash {
+    font-size: 18px;
+    color: #666;
+}

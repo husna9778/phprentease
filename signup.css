@@ -1,0 +1,19 @@
+body {
+    padding: 50px;
+    background-image: url('images/blue.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #f7f0f0; /* Change this to your desired color */
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
